@@ -1,0 +1,15 @@
+.env
+.env.local
+.env.*.local
+node_modules/
+backend/data/outputs/
+*.pyc
+__pycache__/
+.DS_Store
+dist/
+build/
+*.txt
+!README.md
+!requirements.txt
+/frontend/.next/
+/frontend/out/
